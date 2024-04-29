@@ -18,7 +18,7 @@
     </div>
     <div style="flex: 1; text-align: center;">
         <h3>Hari</h3>
-        <img src="https://ca.slack-edge.com/T03V362DL-U06PY7RB8KU-492e2e6f79b2-512" alt="Developer 2"
+        <img src="https://avatars.githubusercontent.com/u/68777106?v=4" alt="Developer 2"
             style="max-width: 200px;">
         <p>Full-stack Developer</p>
     </div>

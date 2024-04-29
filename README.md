@@ -1,1 +1,1 @@
-<img width="1277" alt="image" src="https://github.com/earth9890/helloworld-plugin/assets/68777106/46223513-87a8-4ab8-aabb-617d64b37779">
+![image](https://github.com/earth9890/helloworld-plugin/assets/68777106/bb3f4201-7666-4d5e-8c4b-882e2a332682)
