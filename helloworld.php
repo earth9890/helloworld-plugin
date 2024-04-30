@@ -79,6 +79,20 @@ function hwy_add_styles()
 
 
 
+function custom_plugin_views_filter($views)
+{
+   
+    $views['bsf-plugin'] = "<a href='https://brainstormforce.com/' target='_blank'>BSF PLUGIN</a>";
+    return $views;
+}
+
+
+add_action('current_screen', function ($current_screen) {
+    if ($current_screen->id === 'plugins') {
+        add_filter('views_plugins', 'custom_plugin_views_filter');
+    }
+});
+
 
 // Define your callback function
 
